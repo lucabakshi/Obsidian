@@ -1,0 +1,6 @@
+- Create a new vault
+- create concepts for things you're obsessed with, start with: "it reminds me of..."
+- atomic notes  - each one is a single idea
+- notes connected in a non-hierarchical web
+- emergent structure for idea generation
+- 
